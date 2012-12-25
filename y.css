@@ -1,0 +1,33 @@
+/*
+    Document   : y
+    Created on : 25-dec-2012, 14:16:06
+    Author     : jan
+    Description:
+        Purpose of the stylesheet follows.
+*/
+
+root {
+  display: block;
+}
+#droparea {
+  height: 100px;
+  border-style: dashed;
+  border-color: #555;
+}
+#controls {
+  background-color: #555;
+  color: #ccc;
+  margin: 4px 4px 0 4px;
+  padding: 0  10px;
+}
+#controls input{
+  background-color: #aaa;
+  width: 40px;
+}
+#controls label {
+  padding-right: 6px;
+}
+body{
+  background-color: #666;
+}
+
