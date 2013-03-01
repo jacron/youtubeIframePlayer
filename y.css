@@ -27,6 +27,9 @@ root {
 #controls label {
   padding-right: 6px;
 }
+#currentTime {
+  padding: 0 6px;
+}
 body{
   background-color: #666;
 }
